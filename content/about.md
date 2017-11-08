@@ -1,10 +1,10 @@
 About this site
 ==============================================
+<img src="img/img/favicon.ico" alt="löv" style="float:left;"/>
 
-The primary focus of this site is to:
+Denna sida kommer användas till kursen design som jag läser just nu.
+Denna kurs handlar om hur vi ska designa hemsidor men även för att lära sig hur
+man använder ett ramverk. För oss är detta skolans egna ramverk anax-flat.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+<a href="https://github.com/corgisout/anax-flat">github repo</a>
