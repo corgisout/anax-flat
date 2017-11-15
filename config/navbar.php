@@ -60,6 +60,11 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+            "test" => [
+                "text"  => t("test"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("test file")
+            ],
         ],
     ],
 

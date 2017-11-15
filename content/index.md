@@ -17,15 +17,3 @@ min fritid har mest spenderats med olika datorspel från cs till wow till starcr
 Runt tiden jag började gymnasiet blev jag mycket mer intreserad av hur datorer funkade dock och med det började bygga egna datorer och koda lite på sidan av.
 Med att ha hållit på mycket med datorer och gått en teknisk linjeså hoppas jag att denna kurs ska gå bra för mig
 Men förutom datorer är jag ofta ute och gör saker som att åka longboard, vara med min flickvän eller bara vara med vänner.
-
----
-views:
-    byline:
-        region: after-main
-        template: default/content
-        sort: 1
-        data:
-            meta:
-                type: content
-                route: block/byline
-...
