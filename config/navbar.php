@@ -31,6 +31,16 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("About this website")
             ],
+            "grid" => [
+                "text"  => t("grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid test")
+            ],
+            "typography" => [
+                "text"  => t("typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography test")
+            ],
         ],
     ],
 
