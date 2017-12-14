@@ -1,6 +1,6 @@
 <style>
 .byline {
-    border: 1px solid #34b233;
+    border: 1px solid #000000;
     padding: 1ex;
     clear: both;
     margin:
