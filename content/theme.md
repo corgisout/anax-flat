@@ -24,3 +24,9 @@ detta var även temat som jag lade mest tid på och valde att verkligen göra et
 <p>i mitt colorful tema valde jag att använda mig av en lite mörkare ton av blått som grund och då gult och rött som mina tridiska färger.
 detta är ett väldigt "busy" tema med många olika färger. jag valde att göra bodyn på hemsidan och sen använda mig av gult för att visa header/footer.
 sen tog jag det röda för att dra blicken mot navbaren så den skulle vara lätt att se. detta tema är baserat på mitt dark tema</p>
+
+<h3> typography </h3>
+
+<p> i mitt typografiska tema använder jag mig av min default color tema som bakgrund.
+jag använder mig av olika typsnitt som jag tycker ser moderna ut och är i sans-serif.
+dessa teman tycker jag ger en liten stel robotisk kännsla vilket jag tycker om.

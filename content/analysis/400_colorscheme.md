@@ -1,4 +1,4 @@
-analys
+analys färger
 ===============================
 
 here is my analysis of diffrent websites.
