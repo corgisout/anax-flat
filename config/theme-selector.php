@@ -82,10 +82,32 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
+        "photo"       => [
+            "title"      => "photo",
             "class"      => "fun",
-            "stylesheets" => []
+            "stylesheets" => ["css/photo.min.css"]
+        ],
+        "texture"       => [
+            "title"      => "texture",
+            "class"      => "fun",
+            "stylesheets" => ["css/texture.min.css"]
+        ],
+        "gradient"       => [
+            "title"      => "gradient",
+            "class"      => "fun",
+            "stylesheets" => ["css/gradient.min.css"]
+        ],
+        "separator3" => "------------------------------------------------",
+
+        "unity"       => [
+            "title"      => "unity",
+            "class"      => "fun",
+            "stylesheets" => ["css/unity.min.css"]
+        ],
+        "contrast"       => [
+            "title"      => "contrast",
+            "class"      => "fun",
+            "stylesheets" => ["css/contrast.min.css"]
         ],
     ]
 ];
